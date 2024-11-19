@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dumitrasc Sergiu-Emilian</h1>
 <h3 align="center">A passionate & fresh FullStack / Freelancer developer from Romania</h3>
 <div class="gif-container" align="center">
-        <img src="developer.gif" alt="Developer GIF" class="developer-gif" width="250" height="250">
+        <img src="developer.gif" alt="Developer GIF" class="developer-gif" width="350" height="350">
       </div>
 
 
