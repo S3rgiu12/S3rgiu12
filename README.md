@@ -47,7 +47,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sergiu-emilian dumitrasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiu-emilian dumitrasc" height="30" width="40" /></a>
-<a href="https://fb.com/sergiu dumitrasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sergiu dumitrasc" height="30" width="40" /></a>
 <a href="https://instagram.com/sergiudmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergiudmt" height="30" width="40" /></a>
 </p>
 
