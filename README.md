@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s3rgiu12&label=Profile%20views&color=0e75b6&style=flat" alt="s3rgiu12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s3rgiu12" alt="s3rgiu12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://www.instagram.com/sergiudmt/p/CvamPK2MWiTB_TaBlJoeHsaNs-Hig8DhxZlLjc0/" alt="s3rgiu12" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Blog**
 
