@@ -62,6 +62,14 @@ I combine **clean UI**, **solid backend logic** and a **product & marketing mind
 
 ---
 
+## 📈 Development Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERGIU_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SERGIU_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+
 ## 🎯 Current Focus
 
 - 🔭 Working on **Personal Blog & Digital Platforms**
