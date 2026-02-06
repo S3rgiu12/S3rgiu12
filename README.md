@@ -16,14 +16,12 @@ I combine **clean UI**, **solid backend logic** and a **product & marketing mind
 
 ---
 
-## 💻 Operating Systems I Work With
+## 🧠 Languages Usage
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERGIU_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🧠 Preferred Programming Languages
 
