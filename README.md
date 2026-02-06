@@ -16,11 +16,7 @@ I combine **clean UI**, **solid backend logic** and a **product & marketing mind
 
 ---
 
-## 🧠 Languages Usage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SERGIU_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ## 🧠 Preferred Programming Languages
